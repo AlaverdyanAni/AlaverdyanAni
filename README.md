@@ -24,3 +24,14 @@
   <div id="hello" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNmbnA3OXUzNjRyeXNteHBqcWRvNjBmYmRhdnBubXFlYzlpaDhjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   </div>
+
+ :woman_technologist: About Me : I am a Full Stack Developer from Russia.
+
+- :telescope: I completed the Java developer course at Skypro. I am developing a back-end interface for creating web applications.
+
+- :seedling: Learning to write technical content.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read technical articles.
+
+- :mailbox:How to contact me: [![Linkedin badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ani-alaverdyan-52130b279) [![Telegram badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me.com/AniAlaverdyan) [![WhatsApp badge](https://img.shields.io/badge/-whatsapp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/79999073520)
+  
