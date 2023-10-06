@@ -16,3 +16,11 @@
   <div id="views" align="center">
     <img src="https://komarev.com/ghpvc/?username=AlaverdyanAni&style=flat-square&color=green" alt=" "/>
   </div>
+  <div id="hey" align="center">
+  <h1>
+    Hey there!
+      </h1>
+  </div>
+  <div id="hello" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNmbnA3OXUzNjRyeXNteHBqcWRvNjBmYmRhdnBubXFlYzlpaDhjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  </div>
