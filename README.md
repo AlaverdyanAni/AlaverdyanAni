@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
 <a href="https://linkedin.com/in/ani-alaverdyan-52130b279">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
