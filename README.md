@@ -13,3 +13,6 @@
 <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
 </a>
   </div>
+  <div id="views" align="center">
+    <img src="https://komarev.com/ghpvc/?username=AlaverdyanAni&style=flat-square&color=green" alt=" "/>
+  </div>
